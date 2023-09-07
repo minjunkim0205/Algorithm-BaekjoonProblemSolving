@@ -3,5 +3,4 @@ project(BaekjoonProblemSolving)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(PS Rank/Silver/14940.cpp
-        Rank/Bronze/9654.cpp)
+add_executable(PS Rank/Platinum/5719.cpp)

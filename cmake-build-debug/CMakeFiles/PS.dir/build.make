@@ -68,28 +68,28 @@ include CMakeFiles/PS.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/PS.dir/flags.make
 
-CMakeFiles/PS.dir/Rank/Silver/11403.cpp.obj: CMakeFiles/PS.dir/flags.make
-CMakeFiles/PS.dir/Rank/Silver/11403.cpp.obj: C:/Users\ Files/mjk/Coding/Clion/BaekjoonProblemSolving/Rank/Silver/11403.cpp
-CMakeFiles/PS.dir/Rank/Silver/11403.cpp.obj: CMakeFiles/PS.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users Files\mjk\Coding\Clion\BaekjoonProblemSolving\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/PS.dir/Rank/Silver/11403.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/PS.dir/Rank/Silver/11403.cpp.obj -MF CMakeFiles\PS.dir\Rank\Silver\11403.cpp.obj.d -o CMakeFiles\PS.dir\Rank\Silver\11403.cpp.obj -c "C:\Users Files\mjk\Coding\Clion\BaekjoonProblemSolving\Rank\Silver\11403.cpp"
+CMakeFiles/PS.dir/Rank/Silver/1074.cpp.obj: CMakeFiles/PS.dir/flags.make
+CMakeFiles/PS.dir/Rank/Silver/1074.cpp.obj: C:/Users\ Files/mjk/Coding/Clion/BaekjoonProblemSolving/Rank/Silver/1074.cpp
+CMakeFiles/PS.dir/Rank/Silver/1074.cpp.obj: CMakeFiles/PS.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users Files\mjk\Coding\Clion\BaekjoonProblemSolving\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/PS.dir/Rank/Silver/1074.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/PS.dir/Rank/Silver/1074.cpp.obj -MF CMakeFiles\PS.dir\Rank\Silver\1074.cpp.obj.d -o CMakeFiles\PS.dir\Rank\Silver\1074.cpp.obj -c "C:\Users Files\mjk\Coding\Clion\BaekjoonProblemSolving\Rank\Silver\1074.cpp"
 
-CMakeFiles/PS.dir/Rank/Silver/11403.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PS.dir/Rank/Silver/11403.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users Files\mjk\Coding\Clion\BaekjoonProblemSolving\Rank\Silver\11403.cpp" > CMakeFiles\PS.dir\Rank\Silver\11403.cpp.i
+CMakeFiles/PS.dir/Rank/Silver/1074.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PS.dir/Rank/Silver/1074.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users Files\mjk\Coding\Clion\BaekjoonProblemSolving\Rank\Silver\1074.cpp" > CMakeFiles\PS.dir\Rank\Silver\1074.cpp.i
 
-CMakeFiles/PS.dir/Rank/Silver/11403.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PS.dir/Rank/Silver/11403.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users Files\mjk\Coding\Clion\BaekjoonProblemSolving\Rank\Silver\11403.cpp" -o CMakeFiles\PS.dir\Rank\Silver\11403.cpp.s
+CMakeFiles/PS.dir/Rank/Silver/1074.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PS.dir/Rank/Silver/1074.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users Files\mjk\Coding\Clion\BaekjoonProblemSolving\Rank\Silver\1074.cpp" -o CMakeFiles\PS.dir\Rank\Silver\1074.cpp.s
 
 # Object files for target PS
 PS_OBJECTS = \
-"CMakeFiles/PS.dir/Rank/Silver/11403.cpp.obj"
+"CMakeFiles/PS.dir/Rank/Silver/1074.cpp.obj"
 
 # External object files for target PS
 PS_EXTERNAL_OBJECTS =
 
-PS.exe: CMakeFiles/PS.dir/Rank/Silver/11403.cpp.obj
+PS.exe: CMakeFiles/PS.dir/Rank/Silver/1074.cpp.obj
 PS.exe: CMakeFiles/PS.dir/build.make
 PS.exe: CMakeFiles/PS.dir/linkLibs.rsp
 PS.exe: CMakeFiles/PS.dir/objects1.rsp

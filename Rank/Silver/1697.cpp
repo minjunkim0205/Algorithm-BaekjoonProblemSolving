@@ -42,7 +42,7 @@ int main() {
         }
     }
     /*Output*/
-    data[]
+    
     return 0;
 }
 /* [숨바꼭질]

@@ -128,29 +128,29 @@ PS/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PS.dir\build.make CMakeFiles/PS.dir/build
 .PHONY : PS/fast
 
-Rank/Silver/1697.obj: Rank/Silver/1697.cpp.obj
-.PHONY : Rank/Silver/1697.obj
+Rank/test.obj: Rank/test.cpp.obj
+.PHONY : Rank/test.obj
 
 # target to build an object file
-Rank/Silver/1697.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PS.dir\build.make CMakeFiles/PS.dir/Rank/Silver/1697.cpp.obj
-.PHONY : Rank/Silver/1697.cpp.obj
+Rank/test.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PS.dir\build.make CMakeFiles/PS.dir/Rank/test.cpp.obj
+.PHONY : Rank/test.cpp.obj
 
-Rank/Silver/1697.i: Rank/Silver/1697.cpp.i
-.PHONY : Rank/Silver/1697.i
+Rank/test.i: Rank/test.cpp.i
+.PHONY : Rank/test.i
 
 # target to preprocess a source file
-Rank/Silver/1697.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PS.dir\build.make CMakeFiles/PS.dir/Rank/Silver/1697.cpp.i
-.PHONY : Rank/Silver/1697.cpp.i
+Rank/test.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PS.dir\build.make CMakeFiles/PS.dir/Rank/test.cpp.i
+.PHONY : Rank/test.cpp.i
 
-Rank/Silver/1697.s: Rank/Silver/1697.cpp.s
-.PHONY : Rank/Silver/1697.s
+Rank/test.s: Rank/test.cpp.s
+.PHONY : Rank/test.s
 
 # target to generate assembly for a file
-Rank/Silver/1697.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PS.dir\build.make CMakeFiles/PS.dir/Rank/Silver/1697.cpp.s
-.PHONY : Rank/Silver/1697.cpp.s
+Rank/test.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PS.dir\build.make CMakeFiles/PS.dir/Rank/test.cpp.s
+.PHONY : Rank/test.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... PS
-	@echo ... Rank/Silver/1697.obj
-	@echo ... Rank/Silver/1697.i
-	@echo ... Rank/Silver/1697.s
+	@echo ... Rank/test.obj
+	@echo ... Rank/test.i
+	@echo ... Rank/test.s
 .PHONY : help
 
 

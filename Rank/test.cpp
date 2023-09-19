@@ -1,5 +1,5 @@
 //
-// Created by mjk on 2023-09-18.
+// Created by mjk on 2023-09-19.
 //
 #include <iostream>
 
@@ -7,9 +7,8 @@ using namespace std;
 
 /*Main*/
 int main() {
+    /*Input*/
+    /*Solve*/
     /*Output*/
-    cout << ".  .   .\n"
-            "|  | _ | _. _ ._ _  _\n"
-            "|/\\|(/.|(_.(_)[ | )(/.";
     return 0;
 }

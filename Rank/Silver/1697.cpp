@@ -15,38 +15,27 @@ int main() {
     int n, k;
     cin >> n >> k;
     /*Solve*/
-    vector<int> data(MAX, -1);
+    vector<int> data(MAX+1, MAX);
     queue<int> queue;
     data[n] = 0;
     queue.push(n);
-    while(!queue.empty()) {
+    while (!queue.empty()) {
         int cur = queue.front();
         queue.pop();
         if (cur == k) {
             break;
         }
-        if(0 <= cur && cur <= MAX){
-            if(cur < k){
-                int nxt = cur+1;
-                if (data[cur]) {
-
+        int next[3] = {cur-1, cur+1, cur*2};
+        for (const auto &nxt: next) {
+            if (0 <= nxt && nxt <= MAX) {
+                if (data[nxt] > data[cur] + 1) {
+                    data[nxt] = data[cur] + 1;
+                    queue.push(nxt);
                 }
-                data[cur+1] = data[cur] + 1;
-                queue.push(cur+1);
-                data[cur*2] = data[cur] * 2;
-                queue.push(cur*2);
-            } else if (cur > k) {
-                data[cur-1] = data[cur] + 1;
-                queue.push(cur-1);
             }
         }
     }
     /*Output*/
-    
+    cout << data[k];
     return 0;
 }
-/* [숨바꼭질]
- * 솔루션 : Bfs (1차원)
- * 순간이동 하면 지금 위치에서 x2
- * 일반 이동 하면 지금 위치에서 +1 or -1
- * */

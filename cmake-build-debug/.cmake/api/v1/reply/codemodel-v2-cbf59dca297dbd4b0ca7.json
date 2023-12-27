@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "PS::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-PS-Debug-60a102d4687e23a2628e.json",
+					"jsonFile" : "target-PS-Debug-43eefadc57b6b1bb92b1.json",
 					"name" : "PS",
 					"projectIndex" : 0
 				}
@@ -55,6 +55,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 6
 	}
 }

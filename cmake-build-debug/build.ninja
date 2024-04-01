@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users$ Files/mjk/Coding/Clion/BaekjoonProblemSolving/c
 
 build cmake_object_order_depends_target_PS: phony || CMakeFiles/PS.dir
 
-build CMakeFiles/PS.dir/Rank/Silver/1929.cpp.obj: CXX_COMPILER__PS_unscanned_Debug C$:/Users$ Files/mjk/Coding/Clion/BaekjoonProblemSolving/Rank/Silver/1929.cpp || cmake_object_order_depends_target_PS
-  DEP_FILE = CMakeFiles\PS.dir\Rank\Silver\1929.cpp.obj.d
+build CMakeFiles/PS.dir/Rank/Silver/1193.cpp.obj: CXX_COMPILER__PS_unscanned_Debug C$:/Users$ Files/mjk/Coding/Clion/BaekjoonProblemSolving/Rank/Silver/1193.cpp || cmake_object_order_depends_target_PS
+  DEP_FILE = CMakeFiles\PS.dir\Rank\Silver\1193.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\PS.dir
   OBJECT_FILE_DIR = CMakeFiles\PS.dir\Rank\Silver
@@ -63,7 +63,7 @@ build CMakeFiles/PS.dir/Rank/Silver/1929.cpp.obj: CXX_COMPILER__PS_unscanned_Deb
 #############################################
 # Link the executable PS.exe
 
-build PS.exe: CXX_EXECUTABLE_LINKER__PS_Debug CMakeFiles/PS.dir/Rank/Silver/1929.cpp.obj
+build PS.exe: CXX_EXECUTABLE_LINKER__PS_Debug CMakeFiles/PS.dir/Rank/Silver/1193.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\PS.dir

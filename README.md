@@ -5,3 +5,7 @@
 ### ⚡ Beakjoon PS용 Clion프로젝트 설정
 - #### [설정법](https://3412mb.tistory.com/entry/%EB%B0%B1%EC%A4%80%EC%9A%A9-CLion-%EC%84%A4%EC%A0%95%EB%B2%95)
 - #### [Single File](https://plugins.jetbrains.com/plugin/8352-c-c--single-file-execution)
+
+### ToDo
+- 1929
+- 1193

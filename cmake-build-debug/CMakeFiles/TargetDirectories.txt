@@ -1,3 +1,0 @@
-C:/Users Files/mjk/Coding/Clion/BaekjoonProblemSolving/cmake-build-debug/CMakeFiles/PS.dir
-C:/Users Files/mjk/Coding/Clion/BaekjoonProblemSolving/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users Files/mjk/Coding/Clion/BaekjoonProblemSolving/cmake-build-debug/CMakeFiles/rebuild_cache.dir

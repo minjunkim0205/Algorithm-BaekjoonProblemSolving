@@ -6,7 +6,9 @@
 
 ## Introduction
 
-> C/C++ 알고리즘 공부
+> 백준 사이트 C/C++ 알고리즘 레포지토리
+> - [Solved AC](https://solved.ac/profile/minjunkim0205)
+> - [Baekjoon](https://www.acmicpc.net/user/minjunkim0205)
 
 ## ToDo
 

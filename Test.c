@@ -1,6 +1,4 @@
-#include <iostream>
-
-using namespace std;
+#include <stdio.h>
 
 int check(int a, int b, int c)
 {
@@ -12,15 +10,15 @@ int main()
     while (1)
     {
         int a, b, c;
-        cin >> a >> b >> c;
+        scanf("%d %d %d", &a, &b, &c);
         if(a+b+c == 0){ break; }
         if(check(a,b,c)||check(a,c,b)||check(b,c,a))
         {
-            cout << "right" << '\n';
+            printf("right\n");
         }
         else
         {
-            cout << "wrong" << '\n';
+            printf("wrong\n");
         }
     }
     return 0;

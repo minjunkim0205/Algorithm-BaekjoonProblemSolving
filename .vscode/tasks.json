@@ -54,7 +54,7 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${workspaceRoot}\\Run.exe"
+                "${workspaceRoot}\\Run.exe",
                 //"${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
             "options": {
